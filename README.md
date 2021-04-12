@@ -1,4 +1,4 @@
-# first_app
+# COVID STATS
 
 A new Flutter project.
 
